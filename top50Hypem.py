@@ -43,7 +43,7 @@ for x in atags:
 
 #will open tab in browser with song link
 def internet(index):
-	webbrowser.open_new("http://www.hypem.com/" + links[index])
+	webbrowser.open_new_tab("http://www.hypem.com/" + links[index])
 
 #when double clicked calls this method to get selection and open tab
 def clicked(event):
