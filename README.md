@@ -1,2 +1,5 @@
 # pythonFun
-random python scripts
+Messing around in python during my free time to make scripts
+
+
+
